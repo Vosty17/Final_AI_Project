@@ -95,5 +95,4 @@ Watch the system in action:
 
 - *Phone:* +254 7XX XXX XXX  
 - *Email:* yourname@email.com
-
-Let me know if you want to tweak anything or need help with your demo video section! 😊
+  
